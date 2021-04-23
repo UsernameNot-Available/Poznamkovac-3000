@@ -1,0 +1,15 @@
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.exe
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.deps.json
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.runtimeconfig.json
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.runtimeconfig.dev.json
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.dll
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\bin\Debug\netcoreapp3.1\Poznámkovač 3000.pdb
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.csprojAssemblyReference.cache
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač_3000.Form1.resources
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.csproj.GenerateResource.cache
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.AssemblyInfoInputs.cache
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.AssemblyInfo.cs
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.csproj.CoreCompileInputs.cache
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.dll
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.pdb
+C:\Users\oxyge\source\repos\poznamkovac3000\Poznámkovač 3000\obj\Debug\netcoreapp3.1\Poznámkovač 3000.genruntimeconfig.cache
