@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Poznámkovač 3000/1.0.0": {
+        "runtime": {
+          "Poznámkovač 3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poznámkovač 3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
